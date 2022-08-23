@@ -1,0 +1,9 @@
+{
+    "ExistsSat": "fill=black!10,",
+    "CenterSat": "fill=black!10,",
+    "AllSat": "pattern=crosshatch dots,pattern color=green,preaction={fill,green!30},",
+    "ExistsViolated": "fill=black!10,",
+    "CenterViolated": "fill=black!10,",
+    "AllViolated": "pattern=crosshatch,pattern color=red,preaction={fill,red!30},",
+    "Unknown": "fill=black!10,"
+}

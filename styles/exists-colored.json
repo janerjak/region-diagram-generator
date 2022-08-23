@@ -1,0 +1,9 @@
+{
+    "ExistsSat": "pattern=dots,pattern color=green,preaction={fill,green!40},",
+    "CenterSat": "pattern=dots,pattern color=green,preaction={fill,green!40},",
+    "AllSat": "pattern=crosshatch dots,pattern color=green,preaction={fill,green!30},",
+    "ExistsViolated": "pattern=north west lines,pattern color=red,preaction={fill,red!40},",
+    "CenterViolated": "pattern=north west lines,pattern color=red,preaction={fill,red!40},",
+    "AllViolated": "pattern=crosshatch,pattern color=red,preaction={fill,red!30},",
+    "Unknown": ""
+}

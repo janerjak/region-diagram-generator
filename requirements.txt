@@ -1,0 +1,6 @@
+argparse
+colorama
+datetime
+halo
+humanize
+pathlib
