@@ -9,8 +9,8 @@ A script to convert storm-pars region results to TikZ region diagrams
 The script expects the output of [`storm-pars`](https://www.stormchecker.org) using the `--resultfile`​ argument.
 
 ## Usage
-- Running only `pl.py` without passign arguments, will scan the input directory for files with a `.regionresult` extension and output these files in the output directory
-- You can recursively search the input directory for said files and mimmick the folder structure within the output directory automatically by supplying `-r`
+- Running only `pl.py` without passing arguments, will scan the input directory for files with a `.regionresult` extension and output these files in the output directory
+- You can recursively search the input directory for said files and mimick the folder structure within the output directory automatically by supplying `-r`
 - Specifying a `--file` will only convert this file. You can specify where to write the results using `--output-file`. If nothing is supplied, the result is written to `STDOUT` instead. This means
   - `./pl.py --file ./input/example.tex --output-file ./output/example.tex`, and
   - `./pl.py --file ./input/example.tex > ./output/example.tex`
